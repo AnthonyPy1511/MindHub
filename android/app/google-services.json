@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "378862575045",
+    "project_id": "indel-flutter",
+    "storage_bucket": "indel-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378862575045:android:c9cc8e71bc3dce8685ffac",
+        "android_client_info": {
+          "package_name": "com.example.indel_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378862575045-k1n8p1cicc61sfka2ecbq2a5c9j8b229.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.indel_flutter",
+            "certificate_hash": "b8237b198562130fc1d3be7b8d25b75044df4488"
+          }
+        },
+        {
+          "client_id": "378862575045-pjs1uan2nnmu5itdg4rkbbmkufd81726.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ZOpsVMlwZGKMAYM2MB3hOhftby1eiQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378862575045-pjs1uan2nnmu5itdg4rkbbmkufd81726.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "378862575045-jdd3i4tj2267dnster55s5ogc8pp8asu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mindhub"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378862575045:android:c3ad270be058d1bd85ffac",
+        "android_client_info": {
+          "package_name": "com.example.mindhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378862575045-dg6ghomvn8r8lri1gi2jhd40slq5312d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mindhub",
+            "certificate_hash": "b8237b198562130fc1d3be7b8d25b75044df4488"
+          }
+        },
+        {
+          "client_id": "378862575045-pjs1uan2nnmu5itdg4rkbbmkufd81726.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ZOpsVMlwZGKMAYM2MB3hOhftby1eiQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378862575045-pjs1uan2nnmu5itdg4rkbbmkufd81726.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "378862575045-jdd3i4tj2267dnster55s5ogc8pp8asu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mindhub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
