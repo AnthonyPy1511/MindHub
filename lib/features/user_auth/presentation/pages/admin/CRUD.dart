@@ -86,6 +86,7 @@ class _CRUDPageState extends State<CRUDPage> {
                             icon: const Icon(CupertinoIcons
                                 .clear_circled), // Cambia este icono si lo deseas
                             onPressed: () {
+                              FunctionNextAppointment.deleteDataAdmin(docId);
                               FunctionNextAppointment.deleteData(docId);
                             },
                           ),

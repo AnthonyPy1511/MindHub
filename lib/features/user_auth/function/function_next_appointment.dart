@@ -10,4 +10,13 @@ class FunctionNextAppointment {
       docId: FieldValue.delete(),
     });
   }
+
+  static Future<void> deleteDataAdmin(String docId) async {
+    FirebaseFirestore.instance
+        .collection('appointments_admin')
+        .doc('appointments_admin')
+        .update({
+      docId: FieldValue.delete(),
+    });
+  }
 }
